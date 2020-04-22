@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://github.com/lee-pengcheng.github.io%20/posts/learn-markdown/</loc>
+    <loc>http://example.org/posts/learn-markdown/</loc>
     <lastmod>2020-04-22T18:24:26+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/lee-pengcheng.github.io%20/</loc>
+    <loc>http://example.org/</loc>
     <lastmod>2020-04-22T18:24:26+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/lee-pengcheng.github.io%20/posts/</loc>
+    <loc>http://example.org/posts/</loc>
     <lastmod>2020-04-22T18:24:26+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/lee-pengcheng.github.io%20/categories/</loc>
+    <loc>http://example.org/categories/</loc>
   </url>
   
   <url>
-    <loc>https://github.com/lee-pengcheng.github.io%20/tags/</loc>
+    <loc>http://example.org/tags/</loc>
   </url>
   
 </urlset>
