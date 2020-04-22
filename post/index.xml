@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>Learn Markdown</title>
+      <title>学习Markdown</title>
       <link>https://lee-pengcheng.github.io/post/learn-markdown/</link>
       <pubDate>Wed, 22 Apr 2020 18:24:26 +0800</pubDate>
       
       <guid>https://lee-pengcheng.github.io/post/learn-markdown/</guid>
-      <description>Markdown 1. 标题 1 2 3 1-6个# 快捷键：Ctrl(Command) + 1-6 清除标题：Ctrl(Command) + 0 一级标题 # 一级标题 二级标题 ## 二级标题 三</description>
+      <description>1. 标题 1 2 3 1-6个# 快捷键：Ctrl(Command) + 1-6 清除标题：Ctrl(Command) + 0 一级标题 # 一级标题 二级标题 ## 二级标题 三级</description>
     </item>
     
   </channel>
