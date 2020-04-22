@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on LPC的学习博客</title>
+    <link>https://lee-pengcheng.github.io/posts/</link>
+    <description>Recent content in Posts on LPC的学习博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>cn</language>
     <lastBuildDate>Wed, 22 Apr 2020 18:24:26 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lee-pengcheng.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Learn Markdown</title>
-      <link>http://example.org/posts/learn-markdown/</link>
+      <link>https://lee-pengcheng.github.io/posts/learn-markdown/</link>
       <pubDate>Wed, 22 Apr 2020 18:24:26 +0800</pubDate>
       
-      <guid>http://example.org/posts/learn-markdown/</guid>
+      <guid>https://lee-pengcheng.github.io/posts/learn-markdown/</guid>
       <description>Markdown 1. 标题 1-6个# 快捷键：Ctrl(Command) + 1-6 清除标题：Ctrl(Command) + 0 一级标题 # 一级标题 二级标题 ## 二级标题 三级标题 ### 三级标题 四级标题 #### 四级标题 五级标题 ##### 五级标题 六级标题 ###### 六级标题 2. 文字标记  粗体： Bold **Bold** 斜体： Italic *Italic* 粗斜体： Bold Italic ***Bold Italic*** 中划线： Inner Line ~~Inner Line~~ 下划线： Underline _Underline_ 中划线下划线： _Innder Under List_ ~~_Innder Under List_~~ 高亮显示： I will learn ==Python== later. I will learn ==Python== later.  3. 有序列表 1.</description>
     </item>
     
