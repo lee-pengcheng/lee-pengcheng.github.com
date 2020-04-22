@@ -1,28 +1,37 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml-stylesheet type="text/xsl" href="https://lee-pengcheng.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://lee-pengcheng.github.io/posts/learn-markdown/</loc>
+    <loc>https://lee-pengcheng.github.io/post/learn-markdown/</loc>
     <lastmod>2020-04-22T18:24:26+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://lee-pengcheng.github.io/</loc>
     <lastmod>2020-04-22T18:24:26+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lee-pengcheng.github.io/posts/</loc>
+    <loc>https://lee-pengcheng.github.io/post/</loc>
     <lastmod>2020-04-22T18:24:26+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://lee-pengcheng.github.io/categories/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://lee-pengcheng.github.io/tags/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>
